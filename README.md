@@ -19,5 +19,5 @@
 ⠀⠀⠀ 
 ⠀ ⠀ <p align="center">
 ⠀ ⠀  <a href="https://SPAMTENNAZ.atabook.org/">
-  <img src="https://github.com/spamtennaz/spamtennaz/blob/main/2026_10_03_10n_Kleki.png?raw=true" width="100">
+  <img src="https://github.com/spamtennaz/spamtennaz/blob/main/2026_10_03_10n_Kleki.png?raw=true" width="70">
   
